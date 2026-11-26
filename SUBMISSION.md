@@ -23,7 +23,7 @@ Works on AOSP-based ROMs with UDFPS (LineageOS, crDroid, PixelExperience...).
 Tested: OnePlus 11 / LineageOS 24 (Android 17). OEM ROMs use different SystemUI code and are
 unsupported.
 
-Source: <你的源码仓库地址>
+Source: https://github.com/t3chj4ck/Lineageos_FingerprintUnlockFix
 ```
 
 ## 3. bot 建好仓库、接受邀请之后
