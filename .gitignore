@@ -1,0 +1,7 @@
+# 本地构建产物
+.build/
+*.apk
+*.idsig
+
+# 本地工具链（aapt2 / r8.jar / uber-apk-signer.jar / 从手机拉的 framework-res.apk）
+tools/

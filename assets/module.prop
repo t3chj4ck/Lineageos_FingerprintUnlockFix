@@ -1,0 +1,6 @@
+id=io.github.t3chj4ck.udfpsdimfix
+name=UDFPS Dim Fix
+version=v1.0
+versionCode=1
+author=t3chj4ck
+description=Disable the fullscreen UDFPS dim layer on the lockscreen to reduce dropped frames. Fingerprint unlock itself is unaffected.
